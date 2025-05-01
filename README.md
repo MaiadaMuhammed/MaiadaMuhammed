@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 
 
-<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
 
 
@@ -28,6 +27,8 @@ Here are some ideas to get you started:
   <h3> Front End Web Developer || Self-Taught Developer </h3>
   <br>
 
+
+<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 
 
 
