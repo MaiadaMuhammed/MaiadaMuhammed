@@ -1,10 +1,9 @@
-<h1> Welcome From The Peacful Side, 
-  I'm Maiada Muhammed👋 </h1> 
+<h1> Welcome From The Peacful Side</h1> 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">I'm Ahmed Hemeda</h1>
+<h1 align="center">I'm Maiada Muhammed </h1>
 
-<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
+<h2 align="center">Software Developer | Frontend Developer | Web Developer</h2>
 <br>
 
   <p align="center">
