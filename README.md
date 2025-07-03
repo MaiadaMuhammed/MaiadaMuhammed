@@ -1,5 +1,4 @@
-<h1 align="center">I'm Maiada Muhammed </h1>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">I'm Maiada Muhammed </h1><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center"> Software Developer | Frontend Developer | Web Developer</h2>
 <br>
@@ -20,7 +19,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwindcss,react,StorySet,Material UI,jquery,git,figma"/>
+    <img src="https://go-skill-icons.vercel.app/api/iconsi=html,css,js,bootstrap,tailwindcss,react,StorySet,MaterialUI,jquery,git,figma"/>
   </p>
 
   <br>
