@@ -20,7 +20,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwindcss,react.js,git,figma"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwindcss,react,StorySet,Material UI,jquery,git,figma"/>
   </p>
 
   <br>
