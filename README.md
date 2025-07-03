@@ -1,6 +1,6 @@
 <h1 align="center">I'm Maiada Muhammed </h1> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center"> Software Developer | Frontend Developer | Web Developer</h2>
+<h2 align="center"> Software Developer | Frontend Developer | Web Developer | Self-Taught Developer </h2>
 <br>
 
   <p align="center">
@@ -17,10 +17,11 @@
     </a>&nbsp;
   </p>
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
-  <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/iconsi=html,css,js,tailwindcss,git,figma"/>
-  </p>
+
+
+<!--   <p align="left"> --><h3 align="left">🛠️ Languages & Tools:</h3>
+<!--     <img src="https://go-skill-icons.vercel.app/api/iconsi=html,css,js,tailwindcss,git,figma"/> -->
+<!--   </p> -->
 
   <br>
 
@@ -50,11 +51,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-
-  <h3> Front End Web Developer || Self-Taught Developer </h3>
 
 
 
