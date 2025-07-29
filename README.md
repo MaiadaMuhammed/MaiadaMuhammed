@@ -1,6 +1,5 @@
-<div display="flex">
-  <h1 align="center" text-underline="none" >I'm Maiada Muhammed </h1> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+ <h1 align="center" >I'm Maiada Muhammed </h1> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 <h2 align="center"> Software Developer | Frontend Web Developer | Self-Taught Developer </h2>
