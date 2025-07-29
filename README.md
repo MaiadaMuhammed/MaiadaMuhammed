@@ -10,7 +10,7 @@
   </p>
 
 
-<h3 align="left">📤 Connect with Me:</h3>
+<h3 align="left"> Connect with Me:</h3>
   <p align="left">
     <a href="https://www.linkedin.com/in/maiadafsd/"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
